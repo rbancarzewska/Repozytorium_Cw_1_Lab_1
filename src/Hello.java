@@ -5,5 +5,5 @@ public class Hello {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("Hello and welcome!");
-        //System.out.println(" Renata Bancarzewska a student at WLB-NLU, Informatics, 2nd year");      }
+        System.out.println(" Renata Bancarzewska a student at WLB-NLU, Informatics, 2nd year");      }
     }
